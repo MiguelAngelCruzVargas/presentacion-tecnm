@@ -65,7 +65,7 @@ const Introduccion = () => {
     <div
       className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8 text-gray-800 relative overflow-hidden"
       style={{
-        background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+          background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
       }}
     >
       {/* Elementos decorativos de fondo */}
@@ -386,7 +386,7 @@ const CaracterizacionEmpresa = () => {
     <div
       className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8 text-gray-800 relative overflow-hidden"
       style={{
-        background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+          background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
       }}
     >
       {/* Elementos decorativos de fondo sutiles */}
@@ -674,7 +674,7 @@ const ProblemasResolver = () => {
   return (
     <div className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8 text-gray-800"
       style={{
-        background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+          background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
       }}>
       {/* Título */}
       <motion.div
@@ -834,7 +834,7 @@ const Justificacion = () => {
   return (
     <div className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8 text-gray-800"
       style={{
-        background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+          background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
       }}>
       {/* Título */}
       <motion.div
@@ -936,7 +936,7 @@ const Objetivos = () => (
   <div
     className="min-h-screen w-full flex flex-col items-center justify-start py-10 text-gray-800 relative overflow-hidden"
     style={{
-      background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+        background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
     }}
   >
     {/* Elementos decorativos de fondo */}
@@ -1132,7 +1132,7 @@ const ProcedimientosParte1 = () => {
     <div
       className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8 text-gray-800 relative overflow-hidden"
       style={{
-        background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+          background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
       }}
     >
       {/* Elementos decorativos de fondo */}
@@ -1257,7 +1257,7 @@ const ProcedimientosParte2 = () => {
     <div
       className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8 text-gray-800 relative overflow-hidden"
       style={{
-        background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+          background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
       }}
     >
       {/* Elementos decorativos de fondo */}
@@ -1497,7 +1497,7 @@ const FormularioRegistro = () => {
     <div
       className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8 text-gray-800"
       style={{
-        background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+          background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
       }}
     >
       {/* Título con estilo neumórfico mejorado */}
@@ -1801,7 +1801,7 @@ const SistemaChecador = () => (
   <div
     className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8"
     style={{
-      background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+        background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
     }}
   >
     {/* Título con estilo neumórfico mejorado */}
@@ -1996,7 +1996,7 @@ const SistemaChecador = () => (
 const SistemaAdministrador = () => (
   <div className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8 text-gray-800"
     style={{
-      background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+        background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
     }}>
     {/* Título con estilo neumórfico y degradado azul-morado */}
     <motion.div
@@ -2190,7 +2190,7 @@ const ModulosAdministrador = () => {
     <div
       className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8 text-gray-800"
       style={{
-        background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+          background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
       }}
     >
       {/* Título con estilo neumórfico y degradado azul-verde */}
@@ -2442,7 +2442,7 @@ const ReportesSeguridad = () => {
     <div
       className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8 text-gray-800"
       style={{
-        background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+          background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
       }}
     >
       {/* Título con estilo neumórfico y degradado azul-verde */}
@@ -2719,7 +2719,7 @@ const ModulosAuxiliares = () => {
     <div
       className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8 text-gray-800"
       style={{
-        background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+          background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
       }}
     >
       {/* Título con degradado basado en los iconos */}
@@ -3036,7 +3036,7 @@ const CorreoIncidencias = () => {
   return (
     <div className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8 text-gray-800"
       style={{
-        background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+          background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
       }}>
       {/* Título con degradado azul-morado y línea superior */}
       <motion.div
@@ -3378,7 +3378,7 @@ const EsquemaFuncional = () => {
     <div
       className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8 text-gray-800 relative overflow-hidden"
       style={{
-        background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+          background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
       }}
     >
       {/* Elementos decorativos de fondo */}
@@ -3623,7 +3623,7 @@ const Recomendaciones = () => (
 const Conclusiones = () => (
   <div className="min-h-screen w-full flex flex-col items-center justify-start pt-10 pb-8 text-gray-800 relative overflow-hidden"
     style={{
-      background: "linear-gradient(135deg, #d1d5da 0%, #f0f2f5 100%)",
+        background: "linear-gradient(135deg, #c5cad2 0%, #d8dce4 100%)"
     }}>
     {/* Elementos decorativos de fondo */}
     <div className="absolute inset-0 overflow-hidden opacity-10">
