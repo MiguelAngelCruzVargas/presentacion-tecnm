@@ -126,7 +126,7 @@ const Advanced3DCover = () => {
                   style={{ 
                     textShadow: '2px 2px 4px rgba(0, 0, 0, 0.3)'
                   }}>
-                Sistema Integral para la Gestión y Control de Entradas/Salidas del personal
+                Sistema Integral para la Gestión y Control de Entradas/Salidas del personal del
               </h3>
               <p className="text-xl text-blue-100">
                 Tecnológico Nacional de México Campus Tuxtepec
